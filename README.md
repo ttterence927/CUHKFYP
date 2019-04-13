@@ -14,7 +14,7 @@ To obtain the physiological index, e.g. heart rate, blood pressure, motion senso
 
 # Connect to smart bracelet
 
-## The smart bracelet we obtained from online shop do not exactly provide a list of API which they claimed to provide, in fact, they only provide a documentation of communication protocol between the bracelet and Android device in HEX data and a simple source code about getting the battery level of the smart bracelet. That being the case, there are difficulties in understanding and implement the communication interface.
+The smart bracelet we obtained from online shop do not exactly provide a list of API which they claimed to provide, in fact, they only provide a documentation of communication protocol between the bracelet and Android device in HEX data and a simple source code about getting the battery level of the smart bracelet. That being the case, there are difficulties in understanding and implement the communication interface.
 
 ![image alt text](image_1.png)
 
@@ -36,15 +36,13 @@ According to the app design protocol, bottom navigation bar is used. It will dir
 
 In the measurement page, to represent the data in an informative way, chart is used. **MPAndroidChart** library is being used to represent the chart.
 
-![image alt text](image_4.jpg)
+<img src="image_4.jpg" width="280">
 
 In the ‘quest’ page, user can answer to the question and submit to see the results. If the answer is correct, correct page will be shown and points will be added, else, wrong page will be shown.
 
-<img src="image_5.jpg" width="80">
+<img src="image_5.jpg" width="180"> <img src="image_6.jpg" width="180">
 
-![image alt text](image_6.jpg | width=80)
-
-![image alt text](image_7.jpg | width=80)![image alt text](image_8.jpg | width=80)
+<img src="image_7.jpg" width="180"> <img src="image_8.jpg" width="180">
 
 # Recording time series data to Android SQLite database
 
