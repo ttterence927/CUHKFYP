@@ -40,7 +40,9 @@ In the measurement page, to represent the data in an informative way, chart is u
 
 In the ‘quest’ page, user can answer to the question and submit to see the results. If the answer is correct, correct page will be shown and points will be added, else, wrong page will be shown.
 
-![image alt text](image_5.jpg | width=80)![image alt text](image_6.jpg | width=80)
+<img src="image_5.jpg" width="80">
+
+![image alt text](image_6.jpg | width=80)
 
 ![image alt text](image_7.jpg | width=80)![image alt text](image_8.jpg | width=80)
 
