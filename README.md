@@ -44,7 +44,7 @@ In the ‘quest’ page, user can answer to the question and submit to see the r
 
 <img src="image_7.jpg" width="180"> <img src="image_8.jpg" width="180">
 
-# Recording time-series data to Android SQLite database for further analysis
+# Storing time-series data to Android SQLite database for further analysis
 
 ![image alt text](image_9.jpg)![image alt text](image_10.jpg)
 
