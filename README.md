@@ -49,3 +49,118 @@ In the ‘quest’ page, user can answer to the question and submit to see the r
 ![image alt text](image_9.jpg)![image alt text](image_10.jpg)
 
 # Time-series data analysis...
+Candidate A
+
+*-very patient*
+
+ 
+
+# Traditional paper
+
+avg. HR: 81.4
+
+Quiz score: 2/6
+
+10:40:44 showing frustrated
+
+10:41:56 showing excited![image alt text](image_11.png)
+
+# Robot
+
+avg. HR: 79.0
+
+Quiz score: 6/10
+
+11:17:10 repeatedly speaking the answers to the robot as the robot cannot detect the answers
+
+![image alt text](image_12.png)
+
+Candidate B
+
+*-very excited on the robot*
+
+# Traditional paper
+
+avg. HR: 78.8
+
+Quiz score: 3/6
+
+10:44:00 seems excited on the bracelet
+
+10:46:10 standing up
+
+![image alt text](image_13.png)
+
+# Robot
+
+Avg. HR: 89.2
+
+Quiz score: 5/10
+
+10:54:20 singing song
+
+10:56:10 shouting
+
+![image alt text](image_14.png)
+
+Candidate C
+
+*-easy to be tired due to physical condition*
+
+# Traditional paper
+
+Avg HR:  74.8
+
+Quiz score: 2/6
+
+10:50:10 seem bored on calculation
+
+10:50:30 showing tired by resting on the table
+
+![image alt text](image_15.png)
+
+**Robot**
+
+Avg HR: 80.5
+
+Quiz score: 7/10
+
+11:00:40 touching robot head
+
+11:01:50 seems excited on the robot
+
+11:02:37 moving the head of the robot
+
+11:03:10 touching the robot again
+
+![image alt text](image_16.png)
+
+Feedback from candidates and teachers
+
+Candidate A,B: They all like doing quiz on a paper, but they like more on doing quiz on a robot than on paper.
+
+Candidate C: He don’t have interest on doing paper quiz, but he like doing quizon a robot.
+
+Teahcers:
+
+1. Difficult to do calculation on touch screen
+
+2. Voice recognition accuracy is poor.
+
+3. The screen is too small. 
+
+4. The robot should support Cantonese because English is not their mother tongue.
+
+Conclusion
+
+1.The heart rate of the candidates doing quiz on a robot is more flucturated than doing on a traditional A4 paper. 
+
+We can see that from the above graph, also something needed to be noticed is that there are many gaps on the heart rate graph of doing robot quiz, meaning that the change of heart rate is very high.
+
+2. The abnormal heart rate can be regarded as a leading indicator of physical actions. 
+
+For candidate B, he stand up at 10:46:10, but the heart rate increase at 10:46:09. When he touch the robot head at 11:00:40, his heart rate drop before at 11:00:39. When he try to move the robot head at 11:02:37, his heart rate drop before at 11:02:35.
+
+3. The average heart rate when doing a robot quiz seems to be similar compared to doing a traditional quiz.
+
+Although for candidate C, the average. HR is 89.2 when doing a robot quiz which is much higher than when doing a traditional quiz which is 74.8. Also, the heart rate of candidate B when doing a robot quiz is higher than when doing a traditional quiz. This does not apply to candidate A.
