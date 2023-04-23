@@ -52,6 +52,7 @@ In the ‘quest’ page, user can answer to the question and submit to see the r
 
 ![image alt text](image_19.png)
 
+![image alt text](1.png)
 
 # Storing time-series data to Android SQLite database for further analysis
 
